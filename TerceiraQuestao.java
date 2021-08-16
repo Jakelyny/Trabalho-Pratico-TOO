@@ -14,8 +14,8 @@ public class TerceiraQuestao {
 	        
 	        System.out.println("Data informada: " +sdf.format(dataInformada));
 	        for(int i = 0; i < 5; i++) {
-	        	dataInformada.setDate(dataInformada.getDate() + 7);
-	        	System.out.println("Data de pagamento: " +sdf.format(dataInformada));
+	        dataInformada.setDate(dataInformada.getDate() + 7);
+	        System.out.println("Data de pagamento: " +sdf.format(dataInformada));
 	        }
         }catch (Exception e ){
             System.out.println("Erro! Tipo inserido inválido...");
