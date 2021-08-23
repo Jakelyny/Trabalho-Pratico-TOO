@@ -1,4 +1,4 @@
-# Trabalho Pratico de TOO
+# Trabalho Prático de TOO
 ### Repositório criado para atividade prática da disciplina Tecnologia de Orientação a Objetos
 
 -----------
