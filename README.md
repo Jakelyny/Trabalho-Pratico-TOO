@@ -1,6 +1,8 @@
 # Trabalho Pratico de TOO
 Repositório criado para atividade prática da disciplina Tecnologia de Orientação a Objetos
 
+-----------
+
 1) Crie uma aplicação Java que deve fazer a leitura do nome de uma pessoa e do seu salário. Com base no salário informado deve ser calculado o valor do desconto do INSS e o valor do salário líquido. O valor de desconto do INSS deve ser calculado conforme a faixa de valores da Tabela 1. O valor do salário liquido corresponde ao valor do salário bruto menos o valor do desconto do INSS. Use o controle de exceções para realizar a leitura dos dados.
 
 2) Crie uma aplicação Java que fará o cálculo do valor de locação de um veículo. O valor total da locação é calculado pela quantidade de dias da locação multiplicado pelo valor da diária. A aplicação deve ler o valor da diária, a data de locação e a data de devolução. Use o controle de exceções para que não sejam informados dados inválidos (valor da diária e datas). Após a leitura dos valores calcule a quantidade de dias da locação e o valor total.
